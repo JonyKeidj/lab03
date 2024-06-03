@@ -1,4 +1,4 @@
-Михайлов Виталий, lab3
+Бельков Даниил, lab3
 
 ## Laboratory work III
 
